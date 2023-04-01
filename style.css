@@ -1,0 +1,9 @@
+.card{
+	margin: auto;
+	margin-top: 10%;
+	width: 300px;
+	text-align: center;
+}
+.ukryty{
+	display: none;
+}
